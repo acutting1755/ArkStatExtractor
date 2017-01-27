@@ -1,0 +1,4 @@
+services:
+#    extractor.example:
+#        class: ExtractorBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
